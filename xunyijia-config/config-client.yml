@@ -1,2 +1,7 @@
 profile:
   default-1.0
+
+mongo:
+  dbName: "smartsport-db-1"
+  host: localhost
+  port: 27017

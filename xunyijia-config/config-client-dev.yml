@@ -1,2 +1,7 @@
 profile:
   dev-1.0
+
+mongo:
+  dbName: "smartsport-db-1"
+  host: 120.77.48.80
+  port: 27017
