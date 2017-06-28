@@ -7,7 +7,7 @@ spring:
       label: dev
       uri: http://localhost:8082/
       profile: dev
-      name: config-server
+      name: config-client
   application:
       name: config-client
 

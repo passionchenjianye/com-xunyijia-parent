@@ -1,15 +1,15 @@
 server:
-  port: 8084
+  port: 8085
 
 spring:
   cloud:
     config:
       label: dev
       uri: http://localhost:8082/
-      profile: dev
-      name: config-server
+      profile: default
+      name: config-client
   application:
-      name: db-service
+      name: body-test-service
 
 eureka:
     client:

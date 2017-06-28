@@ -13,7 +13,7 @@
         <module>com-xunyijia-eureka-server</module>
         <module>com-xunyijia-config-server</module>
         <module>com-xunyijia-config-client</module>
-        <module>com-xunyijia-db-service</module>
+        <module>com-xunyijia-service-body-test</module>
     </modules>
 
 </project>
